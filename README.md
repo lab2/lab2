@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-###### [ [Github](https://github.com/lab2) ] . [ [Linkedin](www.linkedin.com/in/cmoriggia) ] 
+###### [ [Github](https://github.com/lab2) ] - [ [Linkedin](www.linkedin.com/in/cmoriggia) ] 
 
 - **Bootcamp Leadership**, HWZ Hochschule für Wirtschaft, 2024
 - **HERMES Foundation**, TÜV SÜD Akademie, 2014
