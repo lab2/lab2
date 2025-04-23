@@ -1,5 +1,7 @@
 ## Howdy!
 
+After a fulfilling IT journey spanning since 2000—marked by a federal diploma in computer science (Switzerland) and diverse roles as a software tester (ISTQB CTFL/CTAL certified), PSM I Scrum Master, Six Sigma Yellow/Green Belt, and hobbyist developer—I'm turning an exciting new page. With deep gratitude for this rich experience, I'm now stepping beyond technology to pursue fresh challenges in a completely different field.
+
 I've moved all repositories from 2011 to present into a single 'Experiments' repository, grouping together these older codebases. **Please note:** I only accept communication via **SMS** or **direct email**. I do not use WhatsApp for business or official matters. Kindly reach me through those channels. Thank you!  
 
 
