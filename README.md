@@ -1,4 +1,4 @@
-After more than two decades in IT—beginning in 2000 as a hobbyist developer and later exploring various technical roles—I’ve decided to step away from programming entirely. This repository stands as a testament to my passion for coding over the years, but I will no longer write or maintain any code moving forward.
+After more than two decades in IT—beginning in 1985 (C64) as a hobbyist developer and later exploring various technical roles—I’ve decided to step away from programming entirely. This repository stands as a testament to my passion for coding over the years, but I will no longer write or maintain any code moving forward.
 
 While I’m grateful for the journey, I’m now closing this chapter to pursue new challenges in a completely different field.
 
