@@ -18,13 +18,14 @@ jobs:
         run: |
           COMMIT_DATE=$(git log -1 --format="%cd" --date=iso)
           echo "date=$COMMIT_DATE" >> $GITHUB_OUTPUT
+          echo "status=🟢 index.html updated" >> $GITHUB_OUTPUT
 
       - name: Update README.md
         run: |
-          STATUS="🟢 index.html updated"
+          STATUS="${{ steps.commit.outputs.status }}"
           DATE="${{ steps.commit.outputs.date }}"
-          LINE="📡 **Feed Status:** $STATUS — \`$DATE\`  <!-- FEED_STATUS -->"
-          sed -i "/<!-- FEED_STATUS -->/c$LINE" README.md
+          LINE="📡 **Feed Status:** $STATUS — \`$DATE\` <!-- FEED -->"
+          sed -i "s|<!-- FEED -->.*|$LINE|" README.md
 
       - name: Commit and push changes
         run: |
