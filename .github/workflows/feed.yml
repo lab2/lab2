@@ -21,7 +21,7 @@ jobs:
       - name: Update README.md
         run: |
           DATE="${{ steps.commit.outputs.date }}"
-          LINE="📡 **Feed Status:** 🟢 index.html updated — \`$DATE\` <!-- FEED -->"
+          LINE="**Feed Status:** 🟢 index.html updated — \`$DATE\` <!-- FEED -->"
           sed -i "s|<!-- FEED -->.*|$LINE|" README.md
 
       - name: Commit and push changes
