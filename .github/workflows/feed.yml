@@ -6,25 +6,22 @@ on:
       - Feeds/index.html
 
 jobs:
-  update-status:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Get last commit info
+      - name: Get last commit timestamp
         id: commit
         run: |
-          COMMIT_DATE=$(git log -1 --format="%cd" --date=iso)
-          echo "date=$COMMIT_DATE" >> $GITHUB_OUTPUT
-          echo "status=🟢 index.html updated" >> $GITHUB_OUTPUT
+          echo "date=$(git log -1 --format='%cd' --date=iso)" >> $GITHUB_OUTPUT
 
       - name: Update README.md
         run: |
-          STATUS="${{ steps.commit.outputs.status }}"
           DATE="${{ steps.commit.outputs.date }}"
-          LINE="📡 **Feed Status:** $STATUS — \`$DATE\` <!-- FEED -->"
+          LINE="📡 **Feed Status:** 🟢 index.html updated — \`$DATE\` <!-- FEED -->"
           sed -i "s|<!-- FEED -->.*|$LINE|" README.md
 
       - name: Commit and push changes
