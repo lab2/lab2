@@ -1,0 +1,35 @@
+name: Update Feed Status
+
+on:
+  push:
+    paths:
+      - Feeds/index.html
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get last commit info
+        id: commit
+        run: |
+          COMMIT_DATE=$(git log -1 --format="%cd" --date=iso)
+          echo "date=$COMMIT_DATE" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          STATUS="🟢 index.html updated"
+          DATE="${{ steps.commit.outputs.date }}"
+          LINE="📡 **Feed Status:** $STATUS — \`$DATE\`  <!-- FEED_STATUS -->"
+          sed -i "/<!-- FEED_STATUS -->/c$LINE" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update feed status"
+          git push
