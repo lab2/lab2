@@ -4,7 +4,7 @@ After more than two decades in IT—starting in 1985 as a hobbyist developer (C6
 
 While I’m grateful for the journey, I’m now closing this chapter to pursue new challenges in a completely different field.
 
-All my projects from 2011 onward have been consolidated into this "Experiments" repository—a curated archive of my pragmatic ideas and work.
+All my projects (snippets) have been consolidated into the "Experiments" repository—a curated archive of my pragmatic ideas and work.
 
 ## Why I’m Done
 
