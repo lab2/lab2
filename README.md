@@ -17,15 +17,6 @@ Frankly, I’m fed up with the endless noise around testing, frameworks, and the
 
 Over time, I also came to realize that the leadership environments I worked in often lacked the clarity, courage, and vision needed to truly empower teams. While there were moments of support, they were too often overshadowed by hesitation, and a focus on appearances rather than outcomes. That, too, made it harder to stay engaged.
 
-## Companies I’ve Worked For
-
-Over the years, I’ve contributed to projects at the following organizations:
-
-- 🏛️ **Swiss Federal Administration**
-- 💼 **Credit Suisse Group AG**  
-- 📬 **Swiss Post Ltd**  
-- 🏦 **PostFinance Ltd**  
-
 ## How to connect
 
 🔵🔴 [Flickr](https://www.flickr.com/photos/196132001@N03/)
