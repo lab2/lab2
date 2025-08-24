@@ -9,13 +9,13 @@ After more than two decades in IT—starting in 1985 as a hobbyist developer (C6
 
 While I’m grateful for the journey, I’m now closing this chapter to pursue new challenges in a completely different field.
 
-All my projects (snippets) have been consolidated into the "Experiments" repository—a curated archive of my pragmatic ideas and work.
-
 ## Why I’m Done
 
 Frankly, I’m fed up with the endless noise around testing, frameworks, and the illusion of control. Quality is a mindset—not a checklist, not a toolchain. If that mindset isn’t present, no amount of ceremony will fix it. And if the industry insists on mistaking rituals for substance, then count me out.
 
 Over time, I also came to realize that the leadership environments I worked in often lacked the clarity, courage, and vision needed to truly empower teams. While there were moments of support, they were too often overshadowed by hesitation, and a focus on appearances rather than outcomes. That, too, made it harder to stay engaged.
+
+Quality is a mindset, not a checklist. I’m done with noise, rituals, and silos. TEAMS not silos should be the rule, yet too often it wasn’t (negative kudos to Raffello, Yasser, Peter, Siegfried) — encounters that taught me mostly how not to lead.
 
 ## How to connect
 
