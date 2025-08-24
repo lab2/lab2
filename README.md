@@ -15,7 +15,7 @@ Frankly, I’m fed up with the endless noise around testing, frameworks, and the
 
 Over time, I also came to realize that the leadership environments I worked in often lacked the clarity, courage, and vision needed to truly empower teams. While there were moments of support, they were too often overshadowed by hesitation, and a focus on appearances rather than outcomes. That, too, made it harder to stay engaged.
 
-Quality is a mindset, not a checklist. I’m done with noise, rituals, and silos. TEAMS not silos should be the rule, yet too often it wasn’t (negative kudos to Raffello, Yasser, Peter, Siegfried) — encounters that taught me mostly how not to lead.
+Quality is a mindset, not a checklist. I’m done with noise, rituals, and silos. “TEAMS, not silos” should be the rule, yet too often it wasn’t — encounters that taught me mostly how not to lead: if you’ve been looking for me, you know exactly who I mean — and who fell short.
 
 ## How to connect
 
