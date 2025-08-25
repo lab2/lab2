@@ -1,9 +1,7 @@
 ## Summary
 ![lab2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lab2&theme=default&show_icons=true&hide_border=true&layout=compact) 
 
-![📊 Lines of Code](https://tokei.rs/b1/github/lab2/Experiments?style=for-the-badge)
-
-![Build Status](https://img.shields.io/github/actions/workflow/status/lab2/feeds/test.yml?branch=main&style=for-the-badge)
+![📊 Lines of Code](https://tokei.rs/b1/github/lab2/Experiments?style=plastic)
 
 ## How to connect
 
