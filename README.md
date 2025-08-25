@@ -3,6 +3,8 @@
 
 ![📊 Lines of Code](https://tokei.rs/b1/github/lab2/Experiments?style=for-the-badge)
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/lab2/feeds/test.yml?branch=main&style=for-the-badge)
+
 ## How to connect
 
 🔵🔴 [Flickr](https://www.flickr.com/photos/196132001@N03/)
